@@ -20,3 +20,5 @@
 - **ERD (Entity Relationship Diagram)**: Visual representation of database entities and their relationships.
 
 - **Primary Key**: A unique identifier for each record in a table.
+
+- **Foreign Key**: A field that links one table to another.
