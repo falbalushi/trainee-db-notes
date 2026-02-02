@@ -14,3 +14,5 @@
 ## Database Notes
 
 - **Database**: An organized collection of structured data.
+
+- **Table**: Stores data in rows and columns.
