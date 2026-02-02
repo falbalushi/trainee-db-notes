@@ -16,3 +16,5 @@
 - **Database**: An organized collection of structured data.
 
 - **Table**: Stores data in rows and columns.
+
+- **ERD (Entity Relationship Diagram)**: Visual representation of database entities and their relationships.
