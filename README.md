@@ -10,3 +10,7 @@
 - **Branch**: A separate line of development.
 - **Merge**: Combine changes from one branch into another.
 - **Pull Request (PR)**: A request to merge one branch into another after review.
+
+## Database Notes
+
+- **Database**: An organized collection of structured data.
