@@ -18,3 +18,5 @@
 - **Table**: Stores data in rows and columns.
 
 - **ERD (Entity Relationship Diagram)**: Visual representation of database entities and their relationships.
+
+- **Primary Key**: A unique identifier for each record in a table.
